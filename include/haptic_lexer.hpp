@@ -2,8 +2,8 @@
 #define HAPTIC_LEXER_HPP
 
 #include <string>
-#include <lexer.hpp> // Cabecera de DeSignar
-#include <list.hpp>  // Lista SLList de DeSignar
+#include <lexer.hpp> 
+#include <list.hpp> 
 #include "haptic_token.hpp"
 
 
